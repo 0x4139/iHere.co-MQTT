@@ -93,8 +93,6 @@ client
 
 ### Broadcast server example
 
-Included in [examples/broadcast.js](https://github.com/adamvr/MQTT.js/blob/master/examples/server/broadcast.js):
-
 ```js
 var mqtt = require('mqtt');
 
